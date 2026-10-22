@@ -1,0 +1,5 @@
+# Q4 Regional Revenue (USD millions)
+North America: 13.9 (Q3: 12.4)
+EMEA: 10.6 (Q3: 9.8)
+APAC: 9.4 (Q3: 7.1)
+LATAM: 2.8 (Q3: 3.3)
